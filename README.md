@@ -3,6 +3,7 @@
 <b>1. Amplify CLI Install</b>
 
   a. npm install -g @aws-amplify/cli
+  b. amplify configure
 
 
 <br>
