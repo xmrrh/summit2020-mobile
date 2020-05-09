@@ -1,4 +1,4 @@
-# summit2020-mobile
+# Summit2020-mobile
 
 
 ## 0. Prerequisites
